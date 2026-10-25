@@ -1,0 +1,4 @@
+interface:
+  display_name: "결과물 독립 검토"
+  short_description: "문서·코드·평가 결과를 독립 검토하고 지적 확인과 필요한 수정·검증으로 연결"
+  default_prompt: "$artifact-review로 이 결과물을 별도 에이전트가 검토하게 하고, 지적의 타당성을 확인해 요청한 범위에서 후속 처리해줘."
