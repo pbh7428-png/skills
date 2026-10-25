@@ -1,0 +1,4 @@
+interface:
+  display_name: "실행 계획 독립 검토"
+  short_description: "실행 계획의 범위·순서·실현 가능성을 독립 검토하고 필요한 수정 후 제시"
+  default_prompt: "$plan-review로 이 실행 계획을 별도 에이전트가 검토하게 하고, 지적의 타당성을 확인해 필요한 수정을 반영한 뒤 제시해줘."
