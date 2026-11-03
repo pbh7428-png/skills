@@ -1,9 +1,9 @@
 ---
 name: h-prd-trd
-description: "[해커톤 시험용·타임박스] 요구사항 추출표·HR 인터뷰·데이터 검사 결과를 바탕으로 시험용 PRD와 1페이지 TRD(MVP 우선, 병렬 개선 가능한 구조)를 작성할 때 사용."
+description: "요구사항 추출표·HR 인터뷰·데이터 검사 결과를 바탕으로 PRD와 1페이지 TRD(MVP 우선, 병렬 개선 가능한 구조)를 작성할 때 사용."
 ---
 
-# PRD + TRD 작성 (시험용)
+# PRD + TRD 작성
 
 ## 입력 (모두 있어야 시작)
 - `docs/01_requirements_table.md` — README 추출표

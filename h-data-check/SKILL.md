@@ -1,6 +1,6 @@
 ---
 name: h-data-check
-description: "[해커톤 시험용·타임박스] 과제 데이터를 코드로 프로파일링하고, README 조건표와 대조해 위반·미분류·검증불가 조건을 찾을 때 사용. h-readme-extract 직후, HR 인터뷰 전에 실행."
+description: "과제 데이터를 코드로 프로파일링하고, README 조건표와 대조해 위반·미분류·검증불가 조건을 찾을 때 사용. h-readme-extract 직후, HR 인터뷰 전에 실행."
 ---
 
 # 데이터 검사 (프로파일링 + 조건 대조)

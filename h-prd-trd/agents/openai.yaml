@@ -1,5 +1,5 @@
 interface:
-  display_name: "[해커톤] PRD·TRD"
+  display_name: "PRD·TRD"
   short_description: "추출표·인터뷰·데이터 검사 기반 PRD와 MVP 우선 1페이지 TRD 작성"
   default_prompt: "$h-prd-trd로 PRD와 1페이지 TRD를 작성해줘."
 policy:
