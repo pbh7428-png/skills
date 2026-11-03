@@ -1,0 +1,6 @@
+interface:
+  display_name: "[해커톤] 누락·위험 검수"
+  short_description: "PRD/TRD·계획의 요구사항 누락과 실행 위험만 별도 에이전트로 검수"
+  default_prompt: "$h-gap-review로 PRD/TRD를 별도 에이전트가 누락·위험 위주로 검수하게 해줘."
+policy:
+  allow_implicit_invocation: false
