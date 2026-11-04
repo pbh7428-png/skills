@@ -1,6 +1,6 @@
 interface:
   display_name: "README 전수 추출"
-  short_description: "README 조건·제약·요구사항을 원문 인용 표로 전수 추출하고 누락 역검사"
-  default_prompt: "$h-readme-extract로 과제 README를 원문 인용 표로 전수 추출하고 누락 역검사까지 해줘."
+  short_description: "README 조건을 원문 인용으로 전수 추출·역검사한 뒤 덩어리로 묶고, 구현 대상 아님·범위 밖 항목을 분리"
+  default_prompt: "$h-readme-extract로 과제 README를 원문 인용 표로 전수 추출하고 누락 역검사한 뒤, 작업용 덩어리 표로 묶고 구현 대상 아님과 범위 밖 항목을 따로 정리해줘."
 policy:
   allow_implicit_invocation: false
