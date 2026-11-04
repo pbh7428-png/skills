@@ -1,6 +1,6 @@
 interface:
   display_name: "데이터 검사"
-  short_description: "데이터 프로파일링 + 조건표 대조로 위반·미분류·검증불가 조건과 HR 질문 후보 도출"
-  default_prompt: "$h-data-check로 데이터를 프로파일링하고 조건표와 대조해서 예외와 HR 질문 후보를 뽑아줘."
+  short_description: "데이터 프로파일링 + 조건표 대조로 위반·미분류·검증불가 조건과 HR 질문 후보 도출, 이상 행 전체 CSV 저장"
+  default_prompt: "$h-data-check로 데이터를 프로파일링하고 조건표와 대조해서 예외와 HR 질문 후보를 뽑고, 이상 데이터 목록을 CSV로 저장해줘."
 policy:
   allow_implicit_invocation: false

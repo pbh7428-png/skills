@@ -14,8 +14,8 @@ mkdir -p ~/.agents/skills && cp -r ~/skills-repo/h-* ~/.agents/skills/
 | 순서 | 스킬 | 언제 | 산출물 |
 |---|---|---|---|
 | 1-1 | `$h-readme-extract` | 시작 직후 (병렬) | `docs/01_requirements_table.md` |
-| 1-3 | `$h-data-check` 1단계 | 시작 직후 (병렬) | 프로파일링 결과 |
-| 1-4 | `$h-data-check` 2·3단계 | 추출표 완성 후 | `docs/02_data_check.md`, HR 질문 후보 |
+| 1-3 | `$h-data-check` 1단계 | 시작 직후 (병렬) | 프로파일링 결과, `docs/02_data_issues.csv` |
+| 1-4 | `$h-data-check` 2·3단계 | 추출표 완성 후 | `docs/02_data_check.md`, `docs/02_data_issues.csv`(이상 행 전체), HR 질문 후보 |
 | 2 | (HR 인터뷰 — 직접) | | `docs/interview.md` |
 | 전 과정 | `$h-decision-log` | 결정할 때마다 / 마지막 서술형 | `docs/decision_log.md` |
 | 3 | `$h-prd-trd` | 인터뷰 후 | `docs/PRD.md`, `docs/TRD.md` |
